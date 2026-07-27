@@ -1,0 +1,49 @@
+body { 
+    background-color: #000000; 
+    color: #ffffff; 
+    font-family: monospace; 
+}
+.clave { color: #00e5ff; 
+    text-transform: uppercase;
+    font-size: 24px;
+}
+h1 {
+    color: #00ff00; 
+    font-size: 52px; 
+    text-align: center; 
+}
+.titulo {
+    color: #00e5ff; 
+    font-size: 24px; 
+    text-align: center; 
+}
+.descripcion {
+    color: #ffffff;
+    font-size: 14px;
+    text-align: left;
+}
+.mision {
+    color: #ffffff;
+    font-size: 14px;
+    text-align: left;
+}
+h2 { color: #00e5ff;
+    font-size: 32px;
+    text-align: center; 
+    border-bottom: 5px solid #00ff00; 
+}
+.herramientas {
+    color: #ffffff;
+    font-size: 18px;
+    text-align: center;
+}
+.lenguajes {
+    color: orange;
+    font-size: 18px;
+    width: fit-content;
+    margin: 0 auto;
+    text-align: center;
+}
+a { color: #00e5ff; text-decoration: none; }
+a:hover { color: #00ff00; text-decoration: underline; }
+img { max-width: 100%; height: auto; border: 8px solid #00ff00; border-radius: 16px; display: block; margin: 32px auto; }
